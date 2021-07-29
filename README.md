@@ -28,8 +28,9 @@
   * Once the db is created and seeded, we can run the command "npm start" in order to start up the server and use the application.
 
 
-  ## DEMO
-  [![DEMO]({/Employee-Manager-DEMO.mp4} "Demo")
+  # DEMO
+  
+  * In order to see the demo, you will need to click on the Employee-Manager-DEMO.mp4 and then click the view raw link to open the video.
 
   ### Dependencies:  
   The following dependencies are required for use:  
