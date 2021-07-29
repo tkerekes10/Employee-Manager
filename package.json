@@ -1,0 +1,17 @@
+{
+  "name": "employee-manager",
+  "version": "1.0.0",
+  "description": "This will be used to manage employees in an organization.",
+  "main": "employeeManager.js",
+  "scripts": {
+    "start": "node employeeManager",
+    "watch": "nodemon employeeManager"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^6.2.1",
+    "mysql": "^2.16.0"
+  }
+}
