@@ -27,6 +27,9 @@
 
   * Once the db is created and seeded, we can run the command "npm start" in order to start up the server and use the application.
 
+
+  * Click [here](https://drive.google.com/file/d/1oXUMg3IpcMVYnJTlcsIw5EmKBjFjVmhg/view) to see the application in use.
+
   ### Dependencies:  
   The following dependencies are required for use:  
  *   console.table
