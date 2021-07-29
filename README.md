@@ -28,7 +28,7 @@
   * Once the db is created and seeded, we can run the command "npm start" in order to start up the server and use the application.
 
 
-    ### DEMO
+  ## DEMO
   [![DEMO]({/Employee-Manager-DEMO.mp4} "Demo")
 
   ### Dependencies:  
